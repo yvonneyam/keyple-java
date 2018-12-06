@@ -11,7 +11,6 @@
  ********************************************************************************/
 package org.eclipse.keyple.plugin.remotese.transport.java;
 
-import org.eclipse.keyple.plugin.remotese.transport.DtoSender;
 import org.eclipse.keyple.plugin.remotese.transport.KeypleDto;
 import org.eclipse.keyple.plugin.remotese.transport.TransportDto;
 

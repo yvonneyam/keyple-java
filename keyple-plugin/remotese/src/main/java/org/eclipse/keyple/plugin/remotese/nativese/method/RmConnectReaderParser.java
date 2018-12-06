@@ -56,7 +56,7 @@ public class RmConnectReaderParser implements RemoteMethodParser<String> {
                 }
 
 
-                //todo sessionId should be stored here
+                // todo sessionId should be stored here
 
             } catch (KeypleReaderNotFoundException e) {
                 logger.warn(

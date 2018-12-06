@@ -40,8 +40,8 @@ public interface TransportDto {
      * 
      * @return DtoSender if any
      */
-    //not in used
-    //DtoSender getDtoSender();
+    // not in used
+    // DtoSender getDtoSender();
 
 
 
